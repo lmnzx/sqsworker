@@ -1,3 +1,3 @@
-#[sqsworker]
+# sqsworker
 
 ![diagram](./img.png)
